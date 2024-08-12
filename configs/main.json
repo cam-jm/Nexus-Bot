@@ -1,0 +1,33 @@
+{
+    "rel": {
+        "num": "3.-1.4",
+        "name": "Mocha",
+        "type": "Rewrite",
+        "stab": "Alpha",
+        "h1col": "#fff",
+        "h2col": "#fff",
+        "infocol": "#000",
+        "imgCredit": "Nour Betar"
+    },
+    "prefix": "/",
+    "status": {
+        "type": "WATCHING",
+        "message": "The new pet"
+    },
+    "channels": {
+        "default": {
+            "id": "609465408398819338",
+            "verbose": "664652203126161448",
+            "announcements": "654093736858484736"
+        },
+        "official": {
+            "id": "664644540170240014",
+            "verbose": "664652203126161448"
+        },
+        "coopNet": {
+            "id": "609465408398819338",
+            "verbose": "653577004024725508",
+            "announcements": "654093736858484736"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "nexus",
+  "version": "3.0.0",
+  "description": "Nexus rewrite",
+  "main": "Nexus.js",
+  "scripts": {
+    "test": "nodemon Nexus.js",
+    "lint": "eslint .",
+    "setup": "npm install -d",
+    "start": "node Nexus.js",
+    "pm": "pm2 start Nexus.js"
+  },
+  "author": "CM",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-image-cover": "^2.0.1",
+    "discord.js": "^12.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "r2": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
